@@ -18,14 +18,3 @@ INSERT INTO users (name) VALUES ("Chad");
 INSERT INTO users (name) VALUES ("Mel");
 INSERT INTO users (name) VALUES ("Tony");
 INSERT INTO users (name) VALUES ("Kimo");
-
-INSERT INTO projects (name) VALUES ("Expansion");
-INSERT INTO projects (name) VALUES ("Build");
-INSERT INTO projects (name) VALUES ("Funding");
-INSERT INTO projects (name) VALUES ("Structure");
-INSERT INTO projects (name) VALUES ("House");
-INSERT INTO projects (name) VALUES ("Truck");
-INSERT INTO projects (name) VALUES ("Bike");
-INSERT INTO projects (name) VALUES ("Cart");
-INSERT INTO projects (name) VALUES ("Apartment");
-INSERT INTO projects (name) VALUES ("Condo");
