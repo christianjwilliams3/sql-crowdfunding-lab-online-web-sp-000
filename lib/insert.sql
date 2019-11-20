@@ -18,5 +18,3 @@ INSERT INTO users (name) VALUES ("Chad");
 INSERT INTO users (name) VALUES ("Mel");
 INSERT INTO users (name) VALUES ("Tony");
 INSERT INTO users (name) VALUES ("Kimo");
-
-
