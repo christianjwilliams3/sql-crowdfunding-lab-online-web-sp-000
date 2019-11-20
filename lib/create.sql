@@ -6,3 +6,9 @@ funding_goal INTEGER,
 start_date BOOLEAN,
 end_date BOOLEAN
 );
+
+CREATE TABLE users (
+  id INTEGER PRIMARY KEY,
+  name TEXT,
+  age INTEGER
+);
